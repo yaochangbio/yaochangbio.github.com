@@ -1,6 +1,5 @@
 yaochangbio.github.com
 ======================
 
-hello world.
-
-this is a website for our small company...
+hello all,
+	this is a small website for our small company... thanks for github.
